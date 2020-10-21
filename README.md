@@ -74,7 +74,7 @@
 #### :video_game: 第三關
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="mouthGirl" align=center /> 
 
--  引用日本都市傳說<<裂嘴女>>的故事，點擊下方按鈕繼續劇情
+-  此處引用日本都市傳說<<裂嘴女>>的故事，點擊下方按鈕繼續劇情
 
 
 ##### Case1.
@@ -93,5 +93,25 @@
 
 ```
 割開嘴角，表示戴上了虛假的微笑，沒有了情緒。
+```
+
+#### :video_game: 第四關
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="finalProject" align=center /> 
+
+-  使用鍵盤輸入排版螢幕顯示之程式碼
+
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+
+-  Correct-Answer，成為工程師的第一步，頭髮掉落
+
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="noHair" align=center />
+
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="nomal" align=center />
+
+```
+電腦，表示任務及努力，承接下了他人的要求，如同電腦一指令一動作，只為融入他人世界；其中融入了小嘲諷，資工常熬夜編程，傷身又脫髮。
 ```
 
