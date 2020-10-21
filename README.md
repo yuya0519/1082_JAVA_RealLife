@@ -115,3 +115,32 @@
 電腦，表示任務及努力，承接下了他人的要求，如同電腦一指令一動作，只為融入他人世界；其中融入了小嘲諷，資工常熬夜編程，傷身又脫髮。
 ```
 
+#### :video_game: 最終
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="question" align=center />
+
+-  最終會出現一面鏡子，他會問一個問題：「你還是你嗎?」
+
+#### case1:
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+
+-  按下"DONE"會直接結束遊戲
+
+#### case2: 
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+
+-  點擊鏡子，鏡子出現裂痕
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+
+-  繼續點擊鏡子，鏡子裂痕變多，逐漸浮現角色原本的模樣
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+
+-  最終打破鏡子，象徵打破社會的框架，出現最初的樣子
+
+#### Ending:
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+
+-  遊戲結束
