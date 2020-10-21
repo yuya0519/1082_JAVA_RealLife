@@ -67,7 +67,7 @@
 
 -  若挑戰成功，抹去鼻子
 
-<img src="https://upload.cc/i1/2020/10/21/bzDnjp.png" width = "500" height = "300" alt="noNose" align=center />
+<img src="https://upload.cc/i1/2020/10/21/bzDnjp.png" width = "200" height = "100" alt="noNose" align=center />
 
 <img src="https://upload.cc/i1/2020/10/21/Y67rxJ.png" width = "300" height = "300" alt="noNose" align=center />
 
@@ -96,7 +96,7 @@
 
 -  違心回答，戴上虛偽面具
 
-<img src="https://upload.cc/i1/2020/10/21/iMR6cf.png" width = "500" height = "300" alt="CutMouth" align=center />
+<img src="https://upload.cc/i1/2020/10/21/iMR6cf.png" width = "200" height = "100" alt="CutMouth" align=center />
 <img src="https://upload.cc/i1/2020/10/21/fS37Ae.png" width = "300" height = "300" alt="CutMouth" align=center />
 
 ```
