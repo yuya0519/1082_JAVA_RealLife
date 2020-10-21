@@ -44,7 +44,7 @@
 #### :video_game: 第二關
 <img src="https://upload.cc/i1/2020/10/21/TivmEu.png" width = "300" height = "300" alt="thatMen" align=center /> 
 
--  和關主猜拳(此處使用 rand()，關主固定出剪刀)，點擊 "START!"
+-  和關主猜拳(此處使用 rand()，關主固定出剪刀)，點擊 "PLAY"
 
 ##### Case1.
 
