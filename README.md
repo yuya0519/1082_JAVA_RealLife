@@ -67,7 +67,7 @@
 
 -  若挑戰成功，抹去鼻子
 
-<img src="https://upload.cc/i1/2020/10/21/Y67rxJ.png" width = "300" height = "300" alt="noNose" align=center />
+<img src="https://upload.cc/i1/2020/10/21/bzDnjp.png" width = "300" height = "300" alt="noNose" align=center />
 
 ```
 失去鼻子，代表五感喪失，失去了自我思想。
