@@ -96,6 +96,7 @@
 
 -  違心回答，戴上虛偽面具
 
+<img src="https://upload.cc/i1/2020/10/21/iMR6cf.png" width = "500" height = "300" alt="CutMouth" align=center />
 <img src="https://upload.cc/i1/2020/10/21/fS37Ae.png" width = "300" height = "300" alt="CutMouth" align=center />
 
 ```
