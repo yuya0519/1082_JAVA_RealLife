@@ -141,7 +141,7 @@
 #### case1:
 <img src="https://upload.cc/i1/2020/10/21/xQbPYg.png" width = "300" height = "300" alt="Same" align=center />
 
--  按下"DONE"會直接結束遊戲
+-  按下"END"會直接結束遊戲
 
 #### case2: 
 <img src="https://upload.cc/i1/2020/10/21/DWTM8s.png" width = "300" height = "300" alt="Break" align=center />
