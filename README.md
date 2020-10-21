@@ -27,10 +27,13 @@
 
 #### :video_game: 第一關
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="eyehole" align=center /> 
+
 -  把眼睛塞入空洞 
 
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="eye" align=center />
+
 -  第一顆眼球塞入，在填補另一空洞 
 
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="noeyeperson" align=center />
+
 -  __失去自己的眼睛，表示順應他人眼光，他人的目光評價比一切重要。__ 
