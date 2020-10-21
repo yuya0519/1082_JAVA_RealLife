@@ -38,5 +38,31 @@
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="noeyeperson" align=center />
 
 ```
--  __失去自己的眼睛，表示順應他人眼光，他人的目光評價比一切重要。__ 
+失去自己的眼睛，表示順應他人眼光，他人的目光評價比一切重要。
+```
+
+#### :video_game: 第二關
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="thatMen" align=center /> 
+
+-  和關主猜拳(此處使用 rand()，關主固定出剪刀)，點擊 "START!"
+
+##### Case1.
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="noWinner" align=center />
+
+-  若平手，按下 "NEXT"，再猜一次
+
+##### Case2.
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Lose" align=center />
+
+-  若挑戰失敗，面臨死亡
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="CutHead" align=center />
+
+##### Case3.
+
+
+```
+失去自己的眼睛，表示順應他人眼光，他人的目光評價比一切重要。
 ```
