@@ -14,20 +14,20 @@
 ## 故事開始：
 #### :video_game: START
 <img src="https://upload.cc/i1/2020/10/21/ZdcCV1.png" width = "300" height = "300" alt="start" align=center />
-- 點擊 "START!"
+-  點擊 "START!"
 
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="person" align=center />
-- 點擊右上 ">>" 繼續
+-  點擊右上 ">>" 繼續
 
 <img src="https://upload.cc/i1/2020/10/21/UNuHlM.png" width = "300" height = "300" alt="map" align=center />
-- 使用右上方向鍵控制角色移動
+-  使用右上方向鍵控制角色移動
 
 #### :video_game: 第一關
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="eyehole" align=center />
-- 把眼睛塞入空洞
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="eyehole" align=center /> 
+-  把眼睛塞入空洞 
 
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="eye" align=center />
-- 第一顆眼球塞入，在填補另一空洞
+-  第一顆眼球塞入，在填補另一空洞 
 
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="noeyeperson" align=center />
-- __失去自己的眼睛，表示順應他人眼光，他人的目光評價比一切重要。__
+-  __失去自己的眼睛，表示順應他人眼光，他人的目光評價比一切重要。__ 
