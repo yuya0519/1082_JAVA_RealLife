@@ -26,7 +26,7 @@
 
 <img src="https://upload.cc/i1/2020/10/21/UNuHlM.png" width = "300" height = "300" alt="map" align=center />
 
--  使用右上方向鍵控制角色移動
+-  使用滑鼠點擊右上方向鍵控制角色移動
 
 #### :video_game: 第一關
 <img src="https://upload.cc/i1/2020/10/21/sYz23l.png" width = "300" height = "300" alt="eyehole" align=center /> 
