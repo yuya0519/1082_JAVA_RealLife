@@ -134,22 +134,24 @@
 -  最終會出現一面鏡子，他會問一個問題：「你還是你嗎?」
 
 #### case1:
-<img src="https://upload.cc/i1/2020/10/21/xQbPYg.png" width = "300" height = "300" alt="Succes" align=center />
+<img src="https://upload.cc/i1/2020/10/21/xQbPYg.png" width = "300" height = "300" alt="Same" align=center />
 
 -  按下"DONE"會直接結束遊戲
 
 #### case2: 
-<img src="https://upload.cc/i1/2020/10/21/DWTM8s.png" width = "300" height = "300" alt="Succes" align=center />
+<img src="https://upload.cc/i1/2020/10/21/DWTM8s.png" width = "300" height = "300" alt="Break" align=center />
 
 -  點擊鏡子，鏡子出現裂痕
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+<img src="https://upload.cc/i1/2020/10/21/3YMAwq.png" width = "300" height = "300" alt="FindYourself" align=center />
 
 -  繼續點擊鏡子，鏡子裂痕變多，逐漸浮現角色原本的模樣
 
-<img src="https://upload.cc/i1/2020/10/21/3YMAwq.png" width = "300" height = "300" alt="Succes" align=center />
 
--  最終打破鏡子，象徵打破社會的框架，出現最初的樣子
+```
+最終的鏡子是最後的抉擇；
+你是選擇打碎鏡子突破外在枷鎖，又或著就這麼妥協呢?
+```
 
 #### Ending:
 
