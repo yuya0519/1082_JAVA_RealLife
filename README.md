@@ -14,12 +14,15 @@
 ## 故事開始：
 #### :video_game: START
 <img src="https://upload.cc/i1/2020/10/21/ZdcCV1.png" width = "300" height = "300" alt="start" align=center />
+
 -  點擊 "START!"
 
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="person" align=center />
+
 -  點擊右上 ">>" 繼續
 
 <img src="https://upload.cc/i1/2020/10/21/UNuHlM.png" width = "300" height = "300" alt="map" align=center />
+
 -  使用右上方向鍵控制角色移動
 
 #### :video_game: 第一關
