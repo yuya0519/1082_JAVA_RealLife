@@ -27,69 +27,72 @@
 -  使用右上方向鍵控制角色移動
 
 #### :video_game: 第一關
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="eyehole" align=center /> 
+<img src="https://upload.cc/i1/2020/10/21/sYz23l.png" width = "300" height = "300" alt="eyehole" align=center /> 
 
 -  把眼睛塞入空洞 
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="eye" align=center />
+<img src="https://upload.cc/i1/2020/10/21/wp9olq.png" width = "300" height = "300" alt="eye" align=center />
 
 -  第一顆眼球塞入，在填補另一空洞 
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="noeyeperson" align=center />
+<img src="https://upload.cc/i1/2020/10/21/htN1J0.png" width = "300" height = "300" alt="noeyeperson" align=center />
 
 ```
 失去自己的眼睛，表示順應他人眼光，他人的目光評價比一切重要。
 ```
 
 #### :video_game: 第二關
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="thatMen" align=center /> 
+<img src="https://upload.cc/i1/2020/10/21/TivmEu.png" width = "300" height = "300" alt="thatMen" align=center /> 
 
 -  和關主猜拳(此處使用 rand()，關主固定出剪刀)，點擊 "START!"
 
 ##### Case1.
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="noWinner" align=center />
+<img src="https://upload.cc/i1/2020/10/21/6IgUJc.png" width = "300" height = "300" alt="noWinner" align=center />
 
 -  若平手，按下 "NEXT"，再猜一次
 
 ##### Case2.
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Lose" align=center />
+<img src="https://upload.cc/i1/2020/10/21/TcUJbm.png" width = "300" height = "300" alt="Lose" align=center />
 
 -  若挑戰失敗，面臨死亡
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="CutHead" align=center />
+<img src="https://upload.cc/i1/2020/10/21/gR3urE.png" width = "300" height = "300" alt="CutHead" align=center />
 
 ##### Case3.
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Win" align=center />
+<img src="https://upload.cc/i1/2020/10/21/nogtMX.png" width = "300" height = "300" alt="Win" align=center />
 
 -  若挑戰成功，抹去鼻子
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="noNose" align=center />
+<img src="https://upload.cc/i1/2020/10/21/Y67rxJ.png" width = "300" height = "300" alt="noNose" align=center />
 
 ```
 失去鼻子，代表五感喪失，失去了自我思想。
 ```
 
 #### :video_game: 第三關
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="mouthGirl" align=center /> 
+
+<img src="https://upload.cc/i1/2020/10/21/SeBDpG.png" width = "300" height = "300" alt="mouthGirl" align=center /> 
 
 -  此處引用日本都市傳說<<裂嘴女>>的故事，點擊下方按鈕繼續劇情
 
+<img src="https://upload.cc/i1/2020/10/21/O9DUE4.png" width = "300" height = "300" alt="NotBeautiful" align=center />
+
+- 裂嘴女露出真面目，再問一次：「這樣也漂亮嗎?」
 
 ##### Case1.
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="NotBeautiful" align=center />
-
+<img src="https://upload.cc/i1/2020/10/21/o0cq8h.png" width = "300" height = "300" alt="NotBeautiful" align=center />
 -  逃避回答，步入死亡
 
 ##### Case2.
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Beautiful" align=center />
+<img src="https://upload.cc/i1/2020/10/21/uI4jLS.png" width = "300" height = "300" alt="Beautiful" align=center />
 
 -  違心回答，戴上虛偽面具
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="CutMouth" align=center />
+<img src="https://upload.cc/i1/2020/10/21/fS37Ae.png" width = "300" height = "300" alt="CutMouth" align=center />
 
 ```
 割開嘴角，表示戴上了虛假的微笑，沒有了情緒。
@@ -117,17 +120,21 @@
 
 #### :video_game: 最終
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="question" align=center />
+<img src="https://upload.cc/i1/2020/10/21/kdTtlx.png" width = "300" height = "300" alt="question" align=center />
+
+-  完成所有關卡，男主角終於融入了大家...
+
+<img src="https://upload.cc/i1/2020/10/21/xQbPYg.png" width = "300" height = "300" alt="question" align=center />
 
 -  最終會出現一面鏡子，他會問一個問題：「你還是你嗎?」
 
 #### case1:
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+<img src="https://upload.cc/i1/2020/10/21/xQbPYg.png" width = "300" height = "300" alt="Succes" align=center />
 
 -  按下"DONE"會直接結束遊戲
 
 #### case2: 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+<img src="https://upload.cc/i1/2020/10/21/DWTM8s.png" width = "300" height = "300" alt="Succes" align=center />
 
 -  點擊鏡子，鏡子出現裂痕
 
@@ -135,12 +142,13 @@
 
 -  繼續點擊鏡子，鏡子裂痕變多，逐漸浮現角色原本的模樣
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+<img src="https://upload.cc/i1/2020/10/21/3YMAwq.png" width = "300" height = "300" alt="Succes" align=center />
 
 -  最終打破鏡子，象徵打破社會的框架，出現最初的樣子
 
 #### Ending:
 
-<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Succes" align=center />
+<img src="https://upload.cc/i1/2020/10/21/DBack7.png" width = "300" height = "300" alt="Succes" align=center />
 
 -  遊戲結束
+
