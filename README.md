@@ -61,8 +61,37 @@
 <img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="CutHead" align=center />
 
 ##### Case3.
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Win" align=center />
 
+-  若挑戰成功，抹去鼻子
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="noNose" align=center />
 
 ```
-失去自己的眼睛，表示順應他人眼光，他人的目光評價比一切重要。
+失去鼻子，代表五感喪失，失去了自我思想。
 ```
+
+#### :video_game: 第三關
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="mouthGirl" align=center /> 
+
+-  引用日本都市傳說<<裂嘴女>>的故事，點擊下方按鈕繼續劇情
+
+
+##### Case1.
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="NotBeautiful" align=center />
+
+-  逃避回答，步入死亡
+
+##### Case2.
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="Beautiful" align=center />
+
+-  違心回答，戴上虛偽面具
+
+<img src="https://upload.cc/i1/2020/10/21/RWYEZM.png" width = "300" height = "300" alt="CutMouth" align=center />
+
+```
+割開嘴角，表示戴上了虛假的微笑，沒有了情緒。
+```
+
